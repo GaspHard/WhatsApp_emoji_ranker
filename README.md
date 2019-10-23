@@ -4,6 +4,6 @@ Simple program that parses a .txt exported from Whatsapp and extracts the emojis
 
 ![alt text](https://github.com/DerRiedi/WhatsApp_emoji_ranker/blob/master/emoji_hist.png)
 
-# Notes
+## Notes
 
 You will need to install the pycairo pkg ('pip install pycairo' or in the anaconda navigator search for pycairo and install it) 
